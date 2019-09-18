@@ -1,7 +1,6 @@
 {
-    "name": "Unity.UIWidgets",
+    "name": "RSG",
     "references": [
-        "RSG",
         "Unity.InternalAPIEngineBridge.024"
     ],
     "optionalUnityReferences": [],
